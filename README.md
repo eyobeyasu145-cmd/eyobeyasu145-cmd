@@ -1,54 +1,26 @@
-👋 Hi, I'm Eyob Eyasu
+# Eyob Eyasu
 
-I'm a Computer Science student and Android developer based in Dire Dawa, Ethiopia.
+**Computer Science Student & Android Developer**  
+Based in Dire Dawa, Ethiopia.
 
-I enjoy turning ideas into real, working applications — especially mobile apps and practical software tools that solve everyday problems.
+## About Me
+- Undergraduate Computer Science student
+- Focused on Android development (Java/Kotlin)
+- Passionate about learning and problem-solving
 
----
+## Tech Stack
+- Android Development
+- Git & GitHub
+- Basic Web Development (HTML, CSS, JavaScript)
 
-## 💻 About Me
+## Projects
+- Various Android apps (personal & academic)
+- https://eyobeyasu145-cmd.github.io/portifolio/
 
-* 🎓 undergradute Computer Science student
-* 📱 Android Developer
-* 🌱 Passionate about learning new technologies and improving my software development skills
-* 🤝 Experienced in communication, tutoring, and peer support
-* 🚀 Interested in building impactful digital products for education and innovation
+## Contact
+- Email: eyobeyasu145@gmail.com  
+- Phone: +251-914-907-073  
+- Telegram: @job_149  
 
----
-
-## 🛠️ Tech Stack
-
-* Android Development (Java / Kotlin)
-* Git & GitHub
-* Basic Web Development (HTML, CSS, JavaScript)
-* UI/UX Design fundamentals
-* Problem Solving & Data Structures
-
----
-
-## 📌 Projects
-
-* 📱 Android applications (personal and academic projects)
-* 🌐 Portfolio website: [https://eyobeyasu145-cmd.github.io/portifolio/](https://eyobeyasu145-cmd.github.io/portifolio/)
-* 💡 More projects coming soon...
-
-
-## 📊 GitHub Stats
-
-* 100+ public repositories (and more private work in progress)
-* Constantly building and experimenting with new ideas
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: eyobeyasu145@gmail.com
-* 📱 Phone: +251-914-907-073
-* 💬 Telegram: @job_149
-* 🌐 Portfolio: https://eyobeyasu145-cmd.github.io/portifolio/
-
----
-
-## ⚡ Fun Fact
-
-I believe that if I can imagine it, I can build it — step by step.
+## Fun Fact
+If I can imagine it, I can build it!
